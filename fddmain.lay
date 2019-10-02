@@ -1,0 +1,8 @@
+LAYOUT(test_filedirdiffLayout, 336, 308)
+	ITEM(Label, n, LeftPosZ(0, 60).VSizePosZ(12, 0))
+	ITEM(Label, l, LeftPosZ(60, 116).VSizePosZ(12, 0))
+	ITEM(Label, v, HCenterPosZ(44, 30).VSizePosZ(12, 0))
+	ITEM(Label, r, RightPosZ(0, 116).VSizePosZ(12, 0))
+	UNTYPED(dv___4, LeftPosZ(100, 56).TopPosZ(140, 15))
+END_LAYOUT
+

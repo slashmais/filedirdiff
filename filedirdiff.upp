@@ -1,0 +1,35 @@
+description "comparing files/directories\377";
+
+uses
+	CtrlLib,
+	utilfuncs,
+	TreeGrid,
+	uppfun;
+
+file
+	filedirdiff.h,
+	filedirdiff.cpp,
+	fddmain.h,
+	fddmain.cpp,
+	fddmain.lay,
+	fddpics.h,
+	fddpics.cpp,
+	fddpics.iml,
+	diffglobs.h,
+	diffglobs.cpp,
+	diffwin.h,
+	nopane.h,
+	nopane.cpp,
+	fdd.h,
+	fdd.cpp,
+	txtdiff.h,
+	txtdiff.cpp,
+	bindiff.h,
+	bindiff.cpp,
+	dirdiff.h,
+	dirdiff.cpp,
+	VersionRBT.h;
+
+mainconfig
+	"" = "GUI";
+
